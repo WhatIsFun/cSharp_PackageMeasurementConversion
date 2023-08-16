@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\bin\Debug\net6.0\cSharp_PackageMeasurementConversion.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\bin\Debug\net6.0\cSharp_PackageMeasurementConversion.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\bin\Debug\net6.0\cSharp_PackageMeasurementConversion.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\bin\Debug\net6.0\cSharp_PackageMeasurementConversion.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\bin\Debug\net6.0\cSharp_PackageMeasurementConversion.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\cSharp_PackageMeasurementConversion.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\cSharp_PackageMeasurementConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\cSharp_PackageMeasurementConversion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\cSharp_PackageMeasurementConversion.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\cSharp_PackageMeasurementConversion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\cSharp_PackageMeasurementConversion.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\refint\cSharp_PackageMeasurementConversion.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\cSharp_PackageMeasurementConversion.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\cSharp_PackageMeasurementConversion.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PackageMeasurementConversion\obj\Debug\net6.0\ref\cSharp_PackageMeasurementConversion.dll
